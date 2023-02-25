@@ -1,0 +1,79 @@
+form {
+  padding: 0 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.sentence {
+  text-align: center;
+}
+
+.card {
+  display: block;
+  margin: 50px auto;
+  padding: 10px 10px 10px 10px;
+  max-width: 700px;
+}
+
+.content {
+  display: block;
+  margin: 10px 30px 0 30px;
+}
+
+.search-tool {
+  width: 75%;
+  height: 30px;
+}
+
+.card-body .search-button {
+  padding: 6px 10px;
+  background: #afc5ff;
+  border: solid 1px #5e63b6;
+  border-radius: 6px;
+  color: #000;
+}
+
+.today h1 {
+  font-size: 28px;
+}
+.current-temp {
+  text-align: right;
+}
+
+.todays-forecast {
+  text-align: center;
+}
+
+.emoji {
+  font-size: 50px;
+}
+
+.seven-day {
+  border: solid 1px #afc5ff;
+  margin: 0 auto;
+}
+.col {
+  border: solid 1px #afc5ff;
+  background: #f0ece2;
+  padding-top: 15px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 30px;
+}
+.seven-day h3 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.tempNow {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.units {
+  position: relative;
+  top: -20px;
+}
